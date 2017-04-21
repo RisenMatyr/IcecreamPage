@@ -1,0 +1,33 @@
+.vanilla {
+  background-image: url("images/vanilla.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.mint {
+  background-image: url("images/mint.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.cherry {
+  background-image: url("images/cherry.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.chocolate {
+  background-image: "images/vanilla.png";
+  text-align: center;
+}
+.ookie {
+  background-image: "images/vanilla.png";
+  text-align: center;
+}
+table {
+    width: 50%;
+}
+
+ tr {
+    height: 100px;
+}

@@ -1,0 +1,43 @@
+.vanilla {
+  background-image: url("images/vanilla.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.mint {
+  background-image: url("images/mint.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.cherry {
+  background-image: url("images/cherry.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.chocolate {
+  background-image: url("images/chocolate.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+.cookie {
+  background-image: url("images/cookies.png");
+  background-repeat: no-repeat;
+  height: auto;
+  width: auto;
+}
+table {
+  background-color: pink;
+    width: 40%;
+}
+td {
+  align:"center";
+}
+ tr {
+    height: 100px;
+}
+th {
+
+}
